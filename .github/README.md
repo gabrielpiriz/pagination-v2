@@ -2,7 +2,7 @@
 
 - [x] Asynchronous Pagination
 - [x] Per-page logic
-- [ ] Tests for the middleware (throw and total)
+- [x] Tests for the middleware (throw and total)
 - [ ] Tests for exception handlers on pools & async requests
 - [ ] Loop protection (if subsequent request is exactly the same)
 - [x] Tests for checking exact iteration count
